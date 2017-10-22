@@ -1,0 +1,3 @@
+# Emoji-Dictionnary
+
+## Swift project
