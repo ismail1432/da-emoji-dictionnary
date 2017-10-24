@@ -18,38 +18,32 @@ class ViewController: UIViewController, UITableViewDataSource, UITableViewDelega
     
     override func viewDidLoad() {
         super.viewDidLoad()
-        //tableView.registerClass(UITableViewCell.self, forCellReuseIdentifier: "DefaultCell")
         tav.dataSource = self;
         tav.delegate = self;
    
         //backgroundColor
         self.view.backgroundColor = UIColor(red: 187, green: 222/255, blue: 251, alpha: 1)
-        
-       requestApi(language: languageChoosen)
+        //Load datas
+        requestApi(language: languageChoosen)
         }
-    
-   /* func createEmojiArray() -> [Emoji] {
-     
-    }*/
-   
+       
     func requestApi(language: String){
-        let url = "http://localhost:8888/emoji-api/web/app_dev.php/emojis/" + language
+        let url = "http://localhost:8888/emoji-api/web/app_dev.php/api/emojis/" + language
         let request = NSMutableURLRequest(url: URL(string: url)!)
         request.httpMethod = "GET"
         var tempArr = [Emoji]()
         
         let requestAPI = URLSession.shared.dataTask(with: request as URLRequest) {data, response, error in
             if (error != nil) {
-                print(error!.localizedDescription) // On indique dans la console ou est le problème dans la requête
+                // For debbug show in terminal what's wrong
+                print(error!.localizedDescription)
             }
+            // Show code status if is not 200
             if let httpStatus = response as? HTTPURLResponse , httpStatus.statusCode != 200 {
                 print("statusCode devrait être de 200, mais il est de \(httpStatus.statusCode)")
-                print("réponse = \(String(describing: response))") // On affiche dans la console si le serveur ne nous renvoit pas un code de 200 qui est le code normal
+                print("réponse = \(String(describing: response))")
             }
-            // let responseAPI = NSString(data: data!, encoding: String.Encoding.utf8.rawValue)
-            //print("responseString = \(String(describing: responseAPI))") // Affiche dans la console la réponse de l'API
             if error == nil {
-                // Ce que vous voulez faire.
                 do {
                     if let parsedData = try JSONSerialization.jsonObject(with: data!) as? [[String:Any]]{
                         for item in parsedData {
@@ -57,11 +51,10 @@ class ViewController: UIViewController, UITableViewDataSource, UITableViewDelega
                             //Transform unicode on an Emoji
                             let strUnicodeEmoji = String(UnicodeScalar(Int(item["unicode"] as! String, radix: 16)!)!)
                             emoji.emojiString = strUnicodeEmoji as String;
-                            emoji.description =  item["description"] as! String;
-                            emoji.translate = item["translate"] as! String;
-                            emoji.language = language
-                            //emoji.translate = item["translation"]["translation"] as! String;
+                            emoji.description =  item["translate"] as! String;
+                           
                             tempArr.append(emoji)
+                           
                         }
                         DispatchQueue.main.async {
                             

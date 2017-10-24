@@ -16,55 +16,6 @@
 		4080447A1F2F2F8800595AD9 /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 408044791F2F2F8800595AD9 /* SecondViewController.swift */; };
 		6117F6291F7126EA00C073AB /* EmojiZerCellTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6117F6281F7126EA00C073AB /* EmojiZerCellTableViewCell.swift */; };
 		6119D1BF1F72D5E8002FEC6D /* MainController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6119D1BE1F72D5E8002FEC6D /* MainController.swift */; };
-		61FBF87F1F77B73500198F20 /* french_ambulance.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 61FBF84E1F77B73500198F20 /* french_ambulance.m4a */; };
-		61FBF8801F77B73500198F20 /* french_american football.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 61FBF84F1F77B73500198F20 /* french_american football.m4a */; };
-		61FBF8811F77B73500198F20 /* french_aubergine.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 61FBF8501F77B73500198F20 /* french_aubergine.m4a */; };
-		61FBF8821F77B73500198F20 /* french_banana.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 61FBF8511F77B73500198F20 /* french_banana.m4a */; };
-		61FBF8831F77B73500198F20 /* french_baseball.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 61FBF8521F77B73500198F20 /* french_baseball.m4a */; };
-		61FBF8841F77B73500198F20 /* french_basketball and hoop.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 61FBF8531F77B73500198F20 /* french_basketball and hoop.m4a */; };
-		61FBF8851F77B73500198F20 /* french_bread.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 61FBF8541F77B73500198F20 /* french_bread.m4a */; };
-		61FBF8861F77B73500198F20 /* french_bus.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 61FBF8551F77B73500198F20 /* french_bus.m4a */; };
-		61FBF8871F77B73500198F20 /* french_candy.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 61FBF8561F77B73500198F20 /* french_candy.m4a */; };
-		61FBF8881F77B73500198F20 /* french_car.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 61FBF8571F77B73500198F20 /* french_car.m4a */; };
-		61FBF8891F77B73500198F20 /* french_cherries.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 61FBF8581F77B73500198F20 /* french_cherries.m4a */; };
-		61FBF88A1F77B73500198F20 /* french_chocolate bar.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 61FBF8591F77B73500198F20 /* french_chocolate bar.m4a */; };
-		61FBF88B1F77B73500198F20 /* french_closed umbrella.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 61FBF85A1F77B73500198F20 /* french_closed umbrella.m4a */; };
-		61FBF88C1F77B73500198F20 /* french_coffee.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 61FBF85B1F77B73500198F20 /* french_coffee.m4a */; };
-		61FBF88D1F77B73500198F20 /* french_cooked rice.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 61FBF85C1F77B73500198F20 /* french_cooked rice.m4a */; };
-		61FBF88E1F77B73500198F20 /* french_cookie.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 61FBF85D1F77B73500198F20 /* french_cookie.m4a */; };
-		61FBF88F1F77B73500198F20 /* french_doughnut.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 61FBF85E1F77B73500198F20 /* french_doughnut.m4a */; };
-		61FBF8901F77B73500198F20 /* french_fire engine.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 61FBF85F1F77B73500198F20 /* french_fire engine.m4a */; };
-		61FBF8911F77B73500198F20 /* french_french fries.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 61FBF8601F77B73500198F20 /* french_french fries.m4a */; };
-		61FBF8921F77B73500198F20 /* french_fuel pump.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 61FBF8611F77B73500198F20 /* french_fuel pump.m4a */; };
-		61FBF8931F77B73500198F20 /* french_grapes.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 61FBF8621F77B73500198F20 /* french_grapes.m4a */; };
-		61FBF8941F77B73500198F20 /* french_green apple.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 61FBF8631F77B73500198F20 /* french_green apple.m4a */; };
-		61FBF8951F77B73500198F20 /* french_hamburger.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 61FBF8641F77B73500198F20 /* french_hamburger.m4a */; };
-		61FBF8961F77B73500198F20 /* french_jambon.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 61FBF8651F77B73500198F20 /* french_jambon.m4a */; };
-		61FBF8971F77B73500198F20 /* french_lollipop.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 61FBF8661F77B73500198F20 /* french_lollipop.m4a */; };
-		61FBF8981F77B73500198F20 /* french_melon.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 61FBF8671F77B73500198F20 /* french_melon.m4a */; };
-		61FBF8991F77B73500198F20 /* french_metro.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 61FBF8681F77B73500198F20 /* french_metro.m4a */; };
-		61FBF89A1F77B73500198F20 /* french_peach.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 61FBF8691F77B73500198F20 /* french_peach.m4a */; };
-		61FBF89B1F77B73500198F20 /* french_pineapple.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 61FBF86A1F77B73500198F20 /* french_pineapple.m4a */; };
-		61FBF89C1F77B73500198F20 /* french_pizza.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 61FBF86B1F77B73500198F20 /* french_pizza.m4a */; };
-		61FBF89D1F77B73500198F20 /* french_police car.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 61FBF86C1F77B73500198F20 /* french_police car.m4a */; };
-		61FBF89E1F77B73500198F20 /* french_poultry leg.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 61FBF86D1F77B73500198F20 /* french_poultry leg.m4a */; };
-		61FBF89F1F77B73500198F20 /* french_rainbow.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 61FBF86E1F77B73500198F20 /* french_rainbow.m4a */; };
-		61FBF8A01F77B73500198F20 /* french_red apple.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 61FBF86F1F77B73500198F20 /* french_red apple.m4a */; };
-		61FBF8A11F77B73500198F20 /* french_rocket.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 61FBF8701F77B73500198F20 /* french_rocket.m4a */; };
-		61FBF8A21F77B73500198F20 /* french_ship.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 61FBF8711F77B73500198F20 /* french_ship.m4a */; };
-		61FBF8A31F77B73500198F20 /* french_snowman whithout snow.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 61FBF8721F77B73500198F20 /* french_snowman whithout snow.m4a */; };
-		61FBF8A41F77B73500198F20 /* french_soccer ball.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 61FBF8731F77B73500198F20 /* french_soccer ball.m4a */; };
-		61FBF8A51F77B73500198F20 /* french_spaghetti.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 61FBF8741F77B73500198F20 /* french_spaghetti.m4a */; };
-		61FBF8A61F77B73500198F20 /* french_strawberry.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 61FBF8751F77B73500198F20 /* french_strawberry.m4a */; };
-		61FBF8A71F77B73500198F20 /* french_swimmer.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 61FBF8761F77B73500198F20 /* french_swimmer.m4a */; };
-		61FBF8A81F77B73500198F20 /* french_taxi.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 61FBF8771F77B73500198F20 /* french_taxi.m4a */; };
-		61FBF8A91F77B73500198F20 /* french_tennis racquet and ball.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 61FBF8781F77B73500198F20 /* french_tennis racquet and ball.m4a */; };
-		61FBF8AA1F77B73500198F20 /* french_tomato.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 61FBF8791F77B73500198F20 /* french_tomato.m4a */; };
-		61FBF8AB1F77B73500198F20 /* french_train.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 61FBF87A1F77B73500198F20 /* french_train.m4a */; };
-		61FBF8AC1F77B73500198F20 /* french_tramway.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 61FBF87B1F77B73500198F20 /* french_tramway.m4a */; };
-		61FBF8AD1F77B73500198F20 /* french_truck.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 61FBF87C1F77B73500198F20 /* french_truck.m4a */; };
-		61FBF8AE1F77B73500198F20 /* french_watch.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 61FBF87D1F77B73500198F20 /* french_watch.m4a */; };
-		61FBF8AF1F77B73500198F20 /* french_watermelon.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 61FBF87E1F77B73500198F20 /* french_watermelon.m4a */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -79,55 +30,6 @@
 		408044791F2F2F8800595AD9 /* SecondViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = SecondViewController.swift; path = ../SecondViewController.swift; sourceTree = "<group>"; };
 		6117F6281F7126EA00C073AB /* EmojiZerCellTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = EmojiZerCellTableViewCell.swift; path = "Emoji Dictionnary/EmojiZerCellTableViewCell.swift"; sourceTree = "<group>"; };
 		6119D1BE1F72D5E8002FEC6D /* MainController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = MainController.swift; path = Assets.xcassets/MainController.swift; sourceTree = "<group>"; };
-		61FBF84E1F77B73500198F20 /* french_ambulance.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; name = french_ambulance.m4a; path = "../../../Document/emojis-songs/french/french_ambulance.m4a"; sourceTree = "<group>"; };
-		61FBF84F1F77B73500198F20 /* french_american football.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; name = "french_american football.m4a"; path = "../../../Document/emojis-songs/french/french_american football.m4a"; sourceTree = "<group>"; };
-		61FBF8501F77B73500198F20 /* french_aubergine.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; name = french_aubergine.m4a; path = "../../../Document/emojis-songs/french/french_aubergine.m4a"; sourceTree = "<group>"; };
-		61FBF8511F77B73500198F20 /* french_banana.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; name = french_banana.m4a; path = "../../../Document/emojis-songs/french/french_banana.m4a"; sourceTree = "<group>"; };
-		61FBF8521F77B73500198F20 /* french_baseball.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; name = french_baseball.m4a; path = "../../../Document/emojis-songs/french/french_baseball.m4a"; sourceTree = "<group>"; };
-		61FBF8531F77B73500198F20 /* french_basketball and hoop.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; name = "french_basketball and hoop.m4a"; path = "../../../Document/emojis-songs/french/french_basketball and hoop.m4a"; sourceTree = "<group>"; };
-		61FBF8541F77B73500198F20 /* french_bread.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; name = french_bread.m4a; path = "../../../Document/emojis-songs/french/french_bread.m4a"; sourceTree = "<group>"; };
-		61FBF8551F77B73500198F20 /* french_bus.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; name = french_bus.m4a; path = "../../../Document/emojis-songs/french/french_bus.m4a"; sourceTree = "<group>"; };
-		61FBF8561F77B73500198F20 /* french_candy.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; name = french_candy.m4a; path = "../../../Document/emojis-songs/french/french_candy.m4a"; sourceTree = "<group>"; };
-		61FBF8571F77B73500198F20 /* french_car.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; name = french_car.m4a; path = "../../../Document/emojis-songs/french/french_car.m4a"; sourceTree = "<group>"; };
-		61FBF8581F77B73500198F20 /* french_cherries.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; name = french_cherries.m4a; path = "../../../Document/emojis-songs/french/french_cherries.m4a"; sourceTree = "<group>"; };
-		61FBF8591F77B73500198F20 /* french_chocolate bar.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; name = "french_chocolate bar.m4a"; path = "../../../Document/emojis-songs/french/french_chocolate bar.m4a"; sourceTree = "<group>"; };
-		61FBF85A1F77B73500198F20 /* french_closed umbrella.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; name = "french_closed umbrella.m4a"; path = "../../../Document/emojis-songs/french/french_closed umbrella.m4a"; sourceTree = "<group>"; };
-		61FBF85B1F77B73500198F20 /* french_coffee.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; name = french_coffee.m4a; path = "../../../Document/emojis-songs/french/french_coffee.m4a"; sourceTree = "<group>"; };
-		61FBF85C1F77B73500198F20 /* french_cooked rice.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; name = "french_cooked rice.m4a"; path = "../../../Document/emojis-songs/french/french_cooked rice.m4a"; sourceTree = "<group>"; };
-		61FBF85D1F77B73500198F20 /* french_cookie.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; name = french_cookie.m4a; path = "../../../Document/emojis-songs/french/french_cookie.m4a"; sourceTree = "<group>"; };
-		61FBF85E1F77B73500198F20 /* french_doughnut.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; name = french_doughnut.m4a; path = "../../../Document/emojis-songs/french/french_doughnut.m4a"; sourceTree = "<group>"; };
-		61FBF85F1F77B73500198F20 /* french_fire engine.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; name = "french_fire engine.m4a"; path = "../../../Document/emojis-songs/french/french_fire engine.m4a"; sourceTree = "<group>"; };
-		61FBF8601F77B73500198F20 /* french_french fries.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; name = "french_french fries.m4a"; path = "../../../Document/emojis-songs/french/french_french fries.m4a"; sourceTree = "<group>"; };
-		61FBF8611F77B73500198F20 /* french_fuel pump.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; name = "french_fuel pump.m4a"; path = "../../../Document/emojis-songs/french/french_fuel pump.m4a"; sourceTree = "<group>"; };
-		61FBF8621F77B73500198F20 /* french_grapes.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; name = french_grapes.m4a; path = "../../../Document/emojis-songs/french/french_grapes.m4a"; sourceTree = "<group>"; };
-		61FBF8631F77B73500198F20 /* french_green apple.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; name = "french_green apple.m4a"; path = "../../../Document/emojis-songs/french/french_green apple.m4a"; sourceTree = "<group>"; };
-		61FBF8641F77B73500198F20 /* french_hamburger.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; name = french_hamburger.m4a; path = "../../../Document/emojis-songs/french/french_hamburger.m4a"; sourceTree = "<group>"; };
-		61FBF8651F77B73500198F20 /* french_jambon.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; name = french_jambon.m4a; path = "../../../Document/emojis-songs/french/french_jambon.m4a"; sourceTree = "<group>"; };
-		61FBF8661F77B73500198F20 /* french_lollipop.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; name = french_lollipop.m4a; path = "../../../Document/emojis-songs/french/french_lollipop.m4a"; sourceTree = "<group>"; };
-		61FBF8671F77B73500198F20 /* french_melon.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; name = french_melon.m4a; path = "../../../Document/emojis-songs/french/french_melon.m4a"; sourceTree = "<group>"; };
-		61FBF8681F77B73500198F20 /* french_metro.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; name = french_metro.m4a; path = "../../../Document/emojis-songs/french/french_metro.m4a"; sourceTree = "<group>"; };
-		61FBF8691F77B73500198F20 /* french_peach.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; name = french_peach.m4a; path = "../../../Document/emojis-songs/french/french_peach.m4a"; sourceTree = "<group>"; };
-		61FBF86A1F77B73500198F20 /* french_pineapple.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; name = french_pineapple.m4a; path = "../../../Document/emojis-songs/french/french_pineapple.m4a"; sourceTree = "<group>"; };
-		61FBF86B1F77B73500198F20 /* french_pizza.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; name = french_pizza.m4a; path = "../../../Document/emojis-songs/french/french_pizza.m4a"; sourceTree = "<group>"; };
-		61FBF86C1F77B73500198F20 /* french_police car.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; name = "french_police car.m4a"; path = "../../../Document/emojis-songs/french/french_police car.m4a"; sourceTree = "<group>"; };
-		61FBF86D1F77B73500198F20 /* french_poultry leg.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; name = "french_poultry leg.m4a"; path = "../../../Document/emojis-songs/french/french_poultry leg.m4a"; sourceTree = "<group>"; };
-		61FBF86E1F77B73500198F20 /* french_rainbow.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; name = french_rainbow.m4a; path = "../../../Document/emojis-songs/french/french_rainbow.m4a"; sourceTree = "<group>"; };
-		61FBF86F1F77B73500198F20 /* french_red apple.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; name = "french_red apple.m4a"; path = "../../../Document/emojis-songs/french/french_red apple.m4a"; sourceTree = "<group>"; };
-		61FBF8701F77B73500198F20 /* french_rocket.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; name = french_rocket.m4a; path = "../../../Document/emojis-songs/french/french_rocket.m4a"; sourceTree = "<group>"; };
-		61FBF8711F77B73500198F20 /* french_ship.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; name = french_ship.m4a; path = "../../../Document/emojis-songs/french/french_ship.m4a"; sourceTree = "<group>"; };
-		61FBF8721F77B73500198F20 /* french_snowman whithout snow.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; name = "french_snowman whithout snow.m4a"; path = "../../../Document/emojis-songs/french/french_snowman whithout snow.m4a"; sourceTree = "<group>"; };
-		61FBF8731F77B73500198F20 /* french_soccer ball.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; name = "french_soccer ball.m4a"; path = "../../../Document/emojis-songs/french/french_soccer ball.m4a"; sourceTree = "<group>"; };
-		61FBF8741F77B73500198F20 /* french_spaghetti.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; name = french_spaghetti.m4a; path = "../../../Document/emojis-songs/french/french_spaghetti.m4a"; sourceTree = "<group>"; };
-		61FBF8751F77B73500198F20 /* french_strawberry.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; name = french_strawberry.m4a; path = "../../../Document/emojis-songs/french/french_strawberry.m4a"; sourceTree = "<group>"; };
-		61FBF8761F77B73500198F20 /* french_swimmer.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; name = french_swimmer.m4a; path = "../../../Document/emojis-songs/french/french_swimmer.m4a"; sourceTree = "<group>"; };
-		61FBF8771F77B73500198F20 /* french_taxi.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; name = french_taxi.m4a; path = "../../../Document/emojis-songs/french/french_taxi.m4a"; sourceTree = "<group>"; };
-		61FBF8781F77B73500198F20 /* french_tennis racquet and ball.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; name = "french_tennis racquet and ball.m4a"; path = "../../../Document/emojis-songs/french/french_tennis racquet and ball.m4a"; sourceTree = "<group>"; };
-		61FBF8791F77B73500198F20 /* french_tomato.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; name = french_tomato.m4a; path = "../../../Document/emojis-songs/french/french_tomato.m4a"; sourceTree = "<group>"; };
-		61FBF87A1F77B73500198F20 /* french_train.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; name = french_train.m4a; path = "../../../Document/emojis-songs/french/french_train.m4a"; sourceTree = "<group>"; };
-		61FBF87B1F77B73500198F20 /* french_tramway.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; name = french_tramway.m4a; path = "../../../Document/emojis-songs/french/french_tramway.m4a"; sourceTree = "<group>"; };
-		61FBF87C1F77B73500198F20 /* french_truck.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; name = french_truck.m4a; path = "../../../Document/emojis-songs/french/french_truck.m4a"; sourceTree = "<group>"; };
-		61FBF87D1F77B73500198F20 /* french_watch.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; name = french_watch.m4a; path = "../../../Document/emojis-songs/french/french_watch.m4a"; sourceTree = "<group>"; };
-		61FBF87E1F77B73500198F20 /* french_watermelon.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; name = french_watermelon.m4a; path = "../../../Document/emojis-songs/french/french_watermelon.m4a"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -162,7 +64,6 @@
 		406D00C21F2E9C0200BF36CB /* Emoji Dictionnary */ = {
 			isa = PBXGroup;
 			children = (
-				61FBF7E51F77A45500198F20 /* audio */,
 				406D00C31F2E9C0200BF36CB /* AppDelegate.swift */,
 				408044791F2F2F8800595AD9 /* SecondViewController.swift */,
 				406D00C51F2E9C0200BF36CB /* ViewController.swift */,
@@ -173,78 +74,6 @@
 				406D00CF1F2E9C0200BF36CB /* Info.plist */,
 			);
 			path = "Emoji Dictionnary";
-			sourceTree = "<group>";
-		};
-		61FBF7E51F77A45500198F20 /* audio */ = {
-			isa = PBXGroup;
-			children = (
-				61FBF84D1F77B29F00198F20 /* english */,
-				61FBF7F41F77ADBE00198F20 /* french */,
-			);
-			name = audio;
-			sourceTree = "<group>";
-		};
-		61FBF7F41F77ADBE00198F20 /* french */ = {
-			isa = PBXGroup;
-			children = (
-				61FBF84E1F77B73500198F20 /* french_ambulance.m4a */,
-				61FBF84F1F77B73500198F20 /* french_american football.m4a */,
-				61FBF8501F77B73500198F20 /* french_aubergine.m4a */,
-				61FBF8511F77B73500198F20 /* french_banana.m4a */,
-				61FBF8521F77B73500198F20 /* french_baseball.m4a */,
-				61FBF8531F77B73500198F20 /* french_basketball and hoop.m4a */,
-				61FBF8541F77B73500198F20 /* french_bread.m4a */,
-				61FBF8551F77B73500198F20 /* french_bus.m4a */,
-				61FBF8561F77B73500198F20 /* french_candy.m4a */,
-				61FBF8571F77B73500198F20 /* french_car.m4a */,
-				61FBF8581F77B73500198F20 /* french_cherries.m4a */,
-				61FBF8591F77B73500198F20 /* french_chocolate bar.m4a */,
-				61FBF85A1F77B73500198F20 /* french_closed umbrella.m4a */,
-				61FBF85B1F77B73500198F20 /* french_coffee.m4a */,
-				61FBF85C1F77B73500198F20 /* french_cooked rice.m4a */,
-				61FBF85D1F77B73500198F20 /* french_cookie.m4a */,
-				61FBF85E1F77B73500198F20 /* french_doughnut.m4a */,
-				61FBF85F1F77B73500198F20 /* french_fire engine.m4a */,
-				61FBF8601F77B73500198F20 /* french_french fries.m4a */,
-				61FBF8611F77B73500198F20 /* french_fuel pump.m4a */,
-				61FBF8621F77B73500198F20 /* french_grapes.m4a */,
-				61FBF8631F77B73500198F20 /* french_green apple.m4a */,
-				61FBF8641F77B73500198F20 /* french_hamburger.m4a */,
-				61FBF8651F77B73500198F20 /* french_jambon.m4a */,
-				61FBF8661F77B73500198F20 /* french_lollipop.m4a */,
-				61FBF8671F77B73500198F20 /* french_melon.m4a */,
-				61FBF8681F77B73500198F20 /* french_metro.m4a */,
-				61FBF8691F77B73500198F20 /* french_peach.m4a */,
-				61FBF86A1F77B73500198F20 /* french_pineapple.m4a */,
-				61FBF86B1F77B73500198F20 /* french_pizza.m4a */,
-				61FBF86C1F77B73500198F20 /* french_police car.m4a */,
-				61FBF86D1F77B73500198F20 /* french_poultry leg.m4a */,
-				61FBF86E1F77B73500198F20 /* french_rainbow.m4a */,
-				61FBF86F1F77B73500198F20 /* french_red apple.m4a */,
-				61FBF8701F77B73500198F20 /* french_rocket.m4a */,
-				61FBF8711F77B73500198F20 /* french_ship.m4a */,
-				61FBF8721F77B73500198F20 /* french_snowman whithout snow.m4a */,
-				61FBF8731F77B73500198F20 /* french_soccer ball.m4a */,
-				61FBF8741F77B73500198F20 /* french_spaghetti.m4a */,
-				61FBF8751F77B73500198F20 /* french_strawberry.m4a */,
-				61FBF8761F77B73500198F20 /* french_swimmer.m4a */,
-				61FBF8771F77B73500198F20 /* french_taxi.m4a */,
-				61FBF8781F77B73500198F20 /* french_tennis racquet and ball.m4a */,
-				61FBF8791F77B73500198F20 /* french_tomato.m4a */,
-				61FBF87A1F77B73500198F20 /* french_train.m4a */,
-				61FBF87B1F77B73500198F20 /* french_tramway.m4a */,
-				61FBF87C1F77B73500198F20 /* french_truck.m4a */,
-				61FBF87D1F77B73500198F20 /* french_watch.m4a */,
-				61FBF87E1F77B73500198F20 /* french_watermelon.m4a */,
-			);
-			name = french;
-			sourceTree = "<group>";
-		};
-		61FBF84D1F77B29F00198F20 /* english */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			name = english;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -274,11 +103,12 @@
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 0830;
-				LastUpgradeCheck = 0830;
+				LastUpgradeCheck = 0900;
 				ORGANIZATIONNAME = "Smaine Milianni";
 				TargetAttributes = {
 					406D00BF1F2E9C0200BF36CB = {
 						CreatedOnToolsVersion = 8.3.3;
+						LastSwiftMigration = 0900;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -306,58 +136,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				61FBF8991F77B73500198F20 /* french_metro.m4a in Resources */,
-				61FBF8AE1F77B73500198F20 /* french_watch.m4a in Resources */,
-				61FBF89A1F77B73500198F20 /* french_peach.m4a in Resources */,
-				61FBF8961F77B73500198F20 /* french_jambon.m4a in Resources */,
-				61FBF88A1F77B73500198F20 /* french_chocolate bar.m4a in Resources */,
-				61FBF8A31F77B73500198F20 /* french_snowman whithout snow.m4a in Resources */,
-				61FBF8A51F77B73500198F20 /* french_spaghetti.m4a in Resources */,
-				61FBF89E1F77B73500198F20 /* french_poultry leg.m4a in Resources */,
-				61FBF8901F77B73500198F20 /* french_fire engine.m4a in Resources */,
-				61FBF8811F77B73500198F20 /* french_aubergine.m4a in Resources */,
-				61FBF89C1F77B73500198F20 /* french_pizza.m4a in Resources */,
-				61FBF8941F77B73500198F20 /* french_green apple.m4a in Resources */,
-				61FBF8971F77B73500198F20 /* french_lollipop.m4a in Resources */,
 				406D00CE1F2E9C0200BF36CB /* LaunchScreen.storyboard in Resources */,
-				61FBF89B1F77B73500198F20 /* french_pineapple.m4a in Resources */,
-				61FBF87F1F77B73500198F20 /* french_ambulance.m4a in Resources */,
-				61FBF8801F77B73500198F20 /* french_american football.m4a in Resources */,
-				61FBF8AD1F77B73500198F20 /* french_truck.m4a in Resources */,
-				61FBF88E1F77B73500198F20 /* french_cookie.m4a in Resources */,
-				61FBF8AC1F77B73500198F20 /* french_tramway.m4a in Resources */,
-				61FBF88F1F77B73500198F20 /* french_doughnut.m4a in Resources */,
-				61FBF8AA1F77B73500198F20 /* french_tomato.m4a in Resources */,
-				61FBF8A91F77B73500198F20 /* french_tennis racquet and ball.m4a in Resources */,
-				61FBF89F1F77B73500198F20 /* french_rainbow.m4a in Resources */,
 				406D00CB1F2E9C0200BF36CB /* Assets.xcassets in Resources */,
-				61FBF8851F77B73500198F20 /* french_bread.m4a in Resources */,
-				61FBF8981F77B73500198F20 /* french_melon.m4a in Resources */,
-				61FBF88B1F77B73500198F20 /* french_closed umbrella.m4a in Resources */,
-				61FBF8A71F77B73500198F20 /* french_swimmer.m4a in Resources */,
-				61FBF8881F77B73500198F20 /* french_car.m4a in Resources */,
-				61FBF8921F77B73500198F20 /* french_fuel pump.m4a in Resources */,
 				406D00C91F2E9C0200BF36CB /* Main.storyboard in Resources */,
-				61FBF8A11F77B73500198F20 /* french_rocket.m4a in Resources */,
-				61FBF8AF1F77B73500198F20 /* french_watermelon.m4a in Resources */,
-				61FBF88C1F77B73500198F20 /* french_coffee.m4a in Resources */,
-				61FBF8831F77B73500198F20 /* french_baseball.m4a in Resources */,
-				61FBF8861F77B73500198F20 /* french_bus.m4a in Resources */,
-				61FBF8821F77B73500198F20 /* french_banana.m4a in Resources */,
-				61FBF8841F77B73500198F20 /* french_basketball and hoop.m4a in Resources */,
-				61FBF8AB1F77B73500198F20 /* french_train.m4a in Resources */,
-				61FBF8A41F77B73500198F20 /* french_soccer ball.m4a in Resources */,
-				61FBF8911F77B73500198F20 /* french_french fries.m4a in Resources */,
-				61FBF8A01F77B73500198F20 /* french_red apple.m4a in Resources */,
-				61FBF8A21F77B73500198F20 /* french_ship.m4a in Resources */,
-				61FBF8871F77B73500198F20 /* french_candy.m4a in Resources */,
-				61FBF8A81F77B73500198F20 /* french_taxi.m4a in Resources */,
-				61FBF8A61F77B73500198F20 /* french_strawberry.m4a in Resources */,
-				61FBF89D1F77B73500198F20 /* french_police car.m4a in Resources */,
-				61FBF88D1F77B73500198F20 /* french_cooked rice.m4a in Resources */,
-				61FBF8931F77B73500198F20 /* french_grapes.m4a in Resources */,
-				61FBF8951F77B73500198F20 /* french_hamburger.m4a in Resources */,
-				61FBF8891F77B73500198F20 /* french_cherries.m4a in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -409,7 +190,9 @@
 				CLANG_CXX_LIBRARY = "libc++";
 				CLANG_ENABLE_MODULES = YES;
 				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
 				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
 				CLANG_WARN_CONSTANT_CONVERSION = YES;
 				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
 				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
@@ -417,7 +200,11 @@
 				CLANG_WARN_ENUM_CONVERSION = YES;
 				CLANG_WARN_INFINITE_RECURSION = YES;
 				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
 				CLANG_WARN_SUSPICIOUS_MOVE = YES;
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
@@ -460,7 +247,9 @@
 				CLANG_CXX_LIBRARY = "libc++";
 				CLANG_ENABLE_MODULES = YES;
 				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
 				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
 				CLANG_WARN_CONSTANT_CONVERSION = YES;
 				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
 				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
@@ -468,7 +257,11 @@
 				CLANG_WARN_ENUM_CONVERSION = YES;
 				CLANG_WARN_INFINITE_RECURSION = YES;
 				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
 				CLANG_WARN_SUSPICIOUS_MOVE = YES;
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
@@ -502,7 +295,8 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "eniamsDev.Emoji-Dictionnary";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 3.0;
+				SWIFT_SWIFT3_OBJC_INFERENCE = On;
+				SWIFT_VERSION = 4.0;
 			};
 			name = Debug;
 		};
@@ -514,7 +308,8 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "eniamsDev.Emoji-Dictionnary";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 3.0;
+				SWIFT_SWIFT3_OBJC_INFERENCE = On;
+				SWIFT_VERSION = 4.0;
 			};
 			name = Release;
 		};
