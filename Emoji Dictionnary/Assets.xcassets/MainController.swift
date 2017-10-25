@@ -10,10 +10,7 @@ import UIKit
 
 class MainController: UIViewController {
     @IBOutlet weak var englishBtn: UIButton!
-    
-
     @IBOutlet weak var spanishBtn: UIButton!
-
     @IBOutlet weak var frenchBtn: UIButton!
     @IBOutlet weak var arabicBtn: UIButton!
     override func viewDidLoad() {
