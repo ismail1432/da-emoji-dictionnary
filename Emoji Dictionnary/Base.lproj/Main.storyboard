@@ -29,6 +29,8 @@
                                         <rect key="frame" x="0.0" y="0.0" width="343" height="583"/>
                                         <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                                         <inset key="scrollIndicatorInsets" minX="0.0" minY="0.0" maxX="0.0" maxY="180"/>
+                                        <color key="separatorColor" red="1" green="0.80392156859999997" blue="0.82352941180000006" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
+                                        <color key="sectionIndexBackgroundColor" red="0.97647058819999999" green="0.80392156859999997" blue="0.5450980392" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
                                         <prototypes>
                                             <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" selectionStyle="default" indentationWidth="10" reuseIdentifier="cellIdentifierEmoji" rowHeight="50" id="RPb-IB-MEP" customClass="EmojiZerCellTableViewCell" customModule="Emoji_Dictionnary" customModuleProvider="target">
                                                 <rect key="frame" x="0.0" y="28" width="343" height="50"/>
@@ -45,6 +47,7 @@
                                                             <nil key="highlightedColor"/>
                                                         </label>
                                                     </subviews>
+                                                    <color key="backgroundColor" red="1" green="0.80392156859999997" blue="0.82352941180000006" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
                                                 </tableViewCellContentView>
                                                 <connections>
                                                     <outlet property="cellZerLabelName" destination="Ok6-pG-cea" id="Yio-So-xeL"/>
@@ -55,7 +58,7 @@
                                 </subviews>
                             </stackView>
                         </subviews>
-                        <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <color key="backgroundColor" red="1" green="0.80392156859999997" blue="0.82352941180000006" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
                     </view>
                     <navigationItem key="navigationItem" id="BH3-hZ-c3J"/>
                     <connections>
@@ -97,6 +100,22 @@
                                 <nil key="textColor"/>
                                 <nil key="highlightedColor"/>
                             </label>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="fN7-42-uZT">
+                                <rect key="frame" x="23" y="582" width="45" height="30"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <state key="normal" title="&lt; Prev"/>
+                                <connections>
+                                    <action selector="btnPrev:" destination="3iw-lh-kyr" eventType="touchUpInside" id="bxc-Qd-a2Q"/>
+                                </connections>
+                            </button>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Khd-Lw-dIB">
+                                <rect key="frame" x="256" y="582" width="103" height="30"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <state key="normal" title="Next &gt;"/>
+                                <connections>
+                                    <action selector="btnNext:" destination="3iw-lh-kyr" eventType="touchUpInside" id="0Tb-XQ-3P2"/>
+                                </connections>
+                            </button>
                         </subviews>
                         <color key="backgroundColor" red="0.97647058823529409" green="0.80392156862745101" blue="0.54509803921568623" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
                     </view>

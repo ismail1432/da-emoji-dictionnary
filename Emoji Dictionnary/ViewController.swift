@@ -12,7 +12,9 @@ import UIKit
 class ViewController: UIViewController, UITableViewDataSource, UITableViewDelegate{
     
     @IBOutlet weak var tav: UITableView!
-
+  
+    @IBAction func btnNext() {
+    }
     var languageChoosen = "";
     var emojisArray : [Emoji] = [Emoji]()
     
@@ -21,8 +23,7 @@ class ViewController: UIViewController, UITableViewDataSource, UITableViewDelega
         tav.dataSource = self;
         tav.delegate = self;
    
-        //backgroundColor
-        self.view.backgroundColor = UIColor(red: 187, green: 222/255, blue: 251, alpha: 1)
+
         //Load datas
         requestApi(language: languageChoosen)
         }
@@ -91,17 +92,19 @@ class ViewController: UIViewController, UITableViewDataSource, UITableViewDelega
 
     
     override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
-     let defVC = segue.destination as!
-        SecondViewController;
-        defVC.emojiSelect = sender as! Emoji
-    
+     let defVC = segue.destination as! SecondViewController;
+        defVC.datas = sender as! [Any]
+        //defVC.test = "testIt"
     }
     
     func tableView(_ tableView: UITableView, didSelectRowAt indexPath: IndexPath) {
-        let emojiSelect = emojisArray[indexPath.row];
-    
-        performSegue(withIdentifier: "secondScreen", sender: emojiSelect)
+        //let emojiSelect = emojisArray[indexPath.row];
+        let datas = [emojisArray, indexPath.row] as [Any]
+       // emojiSelect.emojiNext = emojisArray[indexPath.row + 1];
+       
+        performSegue(withIdentifier: "secondScreen", sender: datas)
     }
+    
   
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()
